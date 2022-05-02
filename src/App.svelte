@@ -52,7 +52,7 @@
 	main {
 		font-size: 20px;
 		text-align: center;
-		padding: 1em;
+		padding: 25px;
 		max-width: 240px;
 		margin: 0 auto;
 	}
