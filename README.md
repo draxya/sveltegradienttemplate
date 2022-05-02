@@ -1,6 +1,4 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
-
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+This was a speedrun website that I created in 30 minutes. Don't expect much on responsivity I had no time lol. It has a beautiful gradient background that you can use in your projects. Peace ✌️
 
 ---
 
