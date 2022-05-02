@@ -1,5 +1,8 @@
 This was a speedrun website that I created in 30 minutes. Don't expect much on responsivity I had no time lol. It has a beautiful gradient background that you can use in your projects. Peace ✌️
 
+![image](https://user-images.githubusercontent.com/68575901/166237885-5b83bf16-8e0f-4582-8109-501e772300fa.png)
+
+
 ---
 
 # svelte app
