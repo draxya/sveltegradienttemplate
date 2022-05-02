@@ -133,9 +133,38 @@
 		text-shadow: 0 2px 20px rgba(48, 19, 19, 0.9);
 	}
 
-	@media (min-width: 640px) {
+	@media (min-width: 100px) {
 		main {
-			max-width: none;
+			max-width: 50%;
+		}
+		.mainpage {
+			position: absolute;
+			top: 630px;
+			width: 55%;
+			height: 1000px;
+		}
+		.boxcenter {
+			left: 50%;
+			transform: translate(-50%, -50%);
+			padding: 10px;
+			box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+			backdrop-filter: blur(0.5px);
+			-webkit-backdrop-filter: blur(0.5px);
+			border-radius: 20px;
+			border: 1px solid rgba(255, 255, 255, 0.034);
+			background: rgba(255, 255, 255, 0.705);
+			width: 90%;
+		}
+		ul {
+			position: absolute;
+			left: 50%;
+			width: 100%;
+		}
+		ul li {
+			display: inline-block;
+			list-style: none;
+			margin: 10px;
+			padding: 0px 0px;
 		}
 	}
 </style>
